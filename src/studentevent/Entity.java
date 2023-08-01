@@ -1,0 +1,19 @@
+package studentevent;
+
+
+public class Entity {
+    private int id;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+	public void registerParticipant(int eventId, int studentId) {
+		// TODO Auto-generated method stub
+		
+	}
+}
